@@ -1,0 +1,22 @@
+{
+  "name": "costume",
+  "version": "0.0.1",
+  "description": "My halloween costume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/costume"
+  },
+  "keywords": [
+    "costume"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/costume/issues"
+  },
+  "homepage": "https://github.com/miguelmota/costume"
+}
