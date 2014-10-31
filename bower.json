@@ -1,0 +1,14 @@
+{
+  "name": "costume",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/costume",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "My halloween costume",
+  "main": "index.js",
+  "keywords": [
+    "costume"
+  ],
+  "license": "MIT"
+}
